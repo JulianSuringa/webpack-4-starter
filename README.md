@@ -1,5 +1,5 @@
 # Webpack version 4 starter
-##Install dependencies
+## Install dependencies
 To install dependencies enter project folder and run following command:
 ```
 npm install
