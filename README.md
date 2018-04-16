@@ -14,4 +14,5 @@ To run production mode execute:
 ```
 npm run prod
 ```
-
+## Reference site
+- (https://appdividend.com/2018/03/10/webpack-4-tutorial-example-scratch/)
