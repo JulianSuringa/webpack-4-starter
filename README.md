@@ -1,4 +1,4 @@
-# Webpack version 4 starter with es6 react
+# Webpack version 4 starter with ES6 React
 ## Install dependencies
 To install dependencies enter project folder and run following command:
 ```
